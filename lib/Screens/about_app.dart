@@ -38,7 +38,7 @@ class AboutScreen extends StatelessWidget {
               // GitHub Button
               ElevatedButton.icon(
                 onPressed: () {
-                  _launchURL('https://github.com/your_username/your_repo');
+                  _launchURL('https://github.com/andoriyaprashant/CanSat.git');
                 },
                 icon: Icon(Icons.code),
                 label: Text('GitHub'),
