@@ -88,8 +88,8 @@ class _HomeScreenState extends State<HomeScreen> {
               image: const AssetImage('assets/Project_2_Òdena.png'), 
               title: 'Òdena 07/05/2022',
               details: 'First Catalan CanSat competition held in Òdena – Catalonia. In total, we successfully launched 18 CanSats.',
-              visualizeCallback: () {
-
+              visualizeCallback: () async {
+                await ssh.Odena();
               },
             ),
                  _buildProjectContainer(
