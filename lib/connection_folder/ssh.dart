@@ -59,7 +59,26 @@ class SSH {
     }
   }
 
-// San Gregorio, Zaragoza
+// Igualada-Ódena Airport
+
+  Future<SSHSession?> Odena() async {
+    try {
+      if (_client == null) {
+        print('SSH client is not initialized.');
+        return null;
+      }
+
+      final execResult = await _client!.execute('echo "search= Igualada-Ódena Airport" >/tmp/query.txt');
+      print('executed');
+
+      return execResult;
+    } catch (e) {
+      print('An error occurred while executing the command: $e');
+      return null;
+    }
+  }
+
+
 
   Future<SSHSession?> Zaragoza() async {
     try {
