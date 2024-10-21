@@ -1,28 +1,44 @@
----
-name: 🐞 Bug Report
-about: Report a bug or unexpected behavior
-title: "[BUG] "
-labels: bug
-assignees: ''
+<div align="center">
+  
+# 🐞 Bug Report
+
+Please provide the following details to help the issue get resolved efficiently.
 
 ---
 
-## Describe the bug
-<!-- A clear and concise description of the bug. -->
+</div>
 
-## Steps to Reproduce
-<!-- Steps to reproduce the bug. Example:
+## 📝 Bug Details
+
+- **Bug Title**: `[BUG] Enter a concise bug title here`
+- **Labels**: `bug`
+- **Assignees**: ""
+
+---
+
+## 🐛 Describe the Bug
+
+A clear and concise description of the bug.
+
+## 🔍 Steps to Reproduce
+
 1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
--->
+2. Click on '...'
+3. Scroll down to '...'
+4. See the error
 
-## Expected behavior
-<!-- A clear and concise description of what you expected to happen. -->
+## 🤔 Expected Behavior
 
-## Screenshots or Logs
-<!-- If applicable, add screenshots or log output to help explain the issue. -->
+A clear and concise description of what you expected to happen.
 
-## Additional context
-<!-- Add any other context about the problem here. -->
+## 📸 Screenshots or Logs
+
+If applicable, add screenshots or log output to help explain the issue.
+
+![Screenshot](https://via.placeholder.com/600x150)
+
+---
+
+## 📝 Additional Context
+
+Add any other context about the problem here.

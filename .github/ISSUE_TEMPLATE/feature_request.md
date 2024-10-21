@@ -1,20 +1,34 @@
----
-name: 💡 Feature Request
-about: Suggest a new feature or improvement
-title: "[FEATURE] "
-labels: enhancement
-assignees: ''
+<div align="center">
+
+# 🌟 Feature Request
+
+Please provide the following details to suggest a new feature or enhancement.
 
 ---
 
-## Problem Statement
-<!-- A clear and concise description of the problem this feature would solve. Example: "I find it frustrating when..." -->
+</div>
 
-## Proposed Solution
-<!-- Describe the solution you'd like. Include any alternatives you considered. -->
+## 📝 Feature Details
 
-## Alternatives Considered
-<!-- What other approaches did you consider, and why did you choose this one? -->
+- **Request Title**: `[FEATURE] Enter a concise title here`
+- **Labels**: `enhancement`
+- **Assignees**: ""
 
-## Additional Context
-<!-- Add any other context, screenshots, or mockups about the feature request here. -->
+---
+
+## 🌟 Describe the Feature
+
+A clear and concise description of the feature you'd like to see implemented and the problem this feature would solve. Example: "I find it frustrating when..."
+
+## 🔍 Use Case
+
+1. Describe how this feature will be used or how it will solve a specific problem.
+2. Provide any relevant examples or scenarios.
+
+## 🤔 Proposed Solution
+
+Describe the solution you'd like. Include any alternatives you considered.
+
+## 📝 Additional Context
+
+Add any other context or references to support your feature request.
