@@ -25,7 +25,7 @@ We welcome contributions of all kinds, including bug fixes, feature enhancements
     ```
     git push origin feature-or-bugfix-branch
     ```
-8. **Submit a Pull Request (PR)**: Open a PR from your fork to the main repository.
+8. **Submit a Pull Request (PR)**: Open a PR from your fork to the main repository. You can refer to [pull request template](PULL_REQUEST.md) before creating a PR.
 
 ## Guidelines
 
@@ -38,10 +38,11 @@ We welcome contributions of all kinds, including bug fixes, feature enhancements
 
 We expect all contributors to adhere to the [Code of Conduct](CODE_OF_CONDUCT.md). Please maintain a respectful and professional attitude when collaborating with others.
 
-## Bug Reports and Feature Requests
+## Bug Reports, Feature Requests and Documentation requests
 
-- **Bugs**: If you encounter any bugs, please [submit an issue](https://github.com/andoriyaprashant/CanSat/issues) with detailed steps to reproduce the problem.
-- **Feature Requests**: Have ideas for improvements? [Open an issue](https://github.com/andoriyaprashant/CanSat/issues) and describe your suggestion.
+- **Bugs**: If you encounter any bugs, please [submit an issue](https://github.com/andoriyaprashant/CanSat/issues) with detailed steps to reproduce the problem. You can refer to [bug report](./.github/ISSUE_TEMPLATE/bug_report.md) for a sample template.
+- **Feature Requests**: Have ideas for improvements? [Open an issue](https://github.com/andoriyaprashant/CanSat/issues) and describe your suggestion. You can refer to [feature request](./.github/ISSUE_TEMPLATE/feature_request.md) for a sample template.
+- **Documentation Requests**: If you find areas in the documentation that need improvement, please [submit an issue](https://github.com/andoriyaprashant/CanSat/issues) with details. You can refer to the [documentation request](./.github/ISSUE_TEMPLATE/documentation_request.md) for a sample template.
 
 ## Contributors ❤️
 
